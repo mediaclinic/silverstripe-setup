@@ -1,0 +1,36 @@
+[submodule "framework"]
+	path = framework
+	url = git@github.com:silverstripe/silverstripe-framework.git
+	update = merge
+	fetchrecursesubmodules = true
+[submodule "cms"]
+	path = cms
+	url = git@github.com:silverstripe/silverstripe-cms.git
+	fetchrecursesubmodules = true
+	update = merge
+[submodule "betterbuttons"]
+	path = betterbuttons
+	url = git@github.com:unclecheese/silverstripe-gridfield-betterbuttons.git
+	fetchrecursesubmodules = true
+	update = merge
+[submodule "display_logic"]
+	path = display_logic
+	url = git@github.com:unclecheese/silverstripe-display-logic.git
+[submodule "bootstrap_forms"]
+	path = bootstrap_forms
+	url = git@github.com:unclecheese/silverstripe-bootstrap-forms.git
+[submodule "gridfieldextensions"]
+	path = gridfieldextensions
+	url = git@github.com:silverstripe-australia/silverstripe-gridfieldextensions.git
+[submodule "imagefunctions"]
+	path = imagefunctions
+	url = git@github.com:studiobonito/silverstripe-imagefunctions.git
+[submodule "geocoding"]
+	path = geocoding
+	url = git@github.com:mediaclinic/silverstripe-geocoding.git
+[submodule "metatitle"]
+	path = metatitle
+	url = git@github.com:kinglozzer/silverstripe-metatitle.git
+[submodule "permamail"]
+	path = permamail
+	url = git@github.com:unclecheese/silverstripe-permamail.git
